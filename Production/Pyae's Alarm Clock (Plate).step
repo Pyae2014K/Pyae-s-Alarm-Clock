@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Pyae''s Alarm Clock (Plate).step',
-/* time_stamp */ '2026-09-14T17:45:30-07:00',
+/* time_stamp */ '2026-09-25T18:30:03-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.2',
@@ -209,10 +209,10 @@ SURFACE()
 #107=EDGE_LOOP('',(#577,#578,#579,#580));
 #108=EDGE_LOOP('',(#581,#582,#583,#584,#585,#586,#587,#588));
 #109=EDGE_LOOP('',(#589));
-#110=EDGE_LOOP('',(#590));
-#111=EDGE_LOOP('',(#591));
-#112=EDGE_LOOP('',(#592));
-#113=EDGE_LOOP('',(#593,#594,#595,#596));
+#110=EDGE_LOOP('',(#590,#591,#592,#593));
+#111=EDGE_LOOP('',(#594));
+#112=EDGE_LOOP('',(#595));
+#113=EDGE_LOOP('',(#596));
 #114=EDGE_LOOP('',(#597,#598,#599,#600,#601));
 #115=EDGE_LOOP('',(#602,#603,#604,#605));
 #116=EDGE_LOOP('',(#606,#607,#608,#609));
@@ -720,14 +720,14 @@ SURFACE()
 #586=ORIENTED_EDGE('',*,*,#426,.T.);
 #587=ORIENTED_EDGE('',*,*,#396,.F.);
 #588=ORIENTED_EDGE('',*,*,#399,.T.);
-#589=ORIENTED_EDGE('',*,*,#414,.F.);
-#590=ORIENTED_EDGE('',*,*,#409,.F.);
-#591=ORIENTED_EDGE('',*,*,#404,.F.);
-#592=ORIENTED_EDGE('',*,*,#427,.F.);
-#593=ORIENTED_EDGE('',*,*,#428,.F.);
-#594=ORIENTED_EDGE('',*,*,#429,.F.);
-#595=ORIENTED_EDGE('',*,*,#430,.F.);
-#596=ORIENTED_EDGE('',*,*,#431,.F.);
+#589=ORIENTED_EDGE('',*,*,#427,.F.);
+#590=ORIENTED_EDGE('',*,*,#428,.F.);
+#591=ORIENTED_EDGE('',*,*,#429,.F.);
+#592=ORIENTED_EDGE('',*,*,#430,.F.);
+#593=ORIENTED_EDGE('',*,*,#431,.F.);
+#594=ORIENTED_EDGE('',*,*,#404,.F.);
+#595=ORIENTED_EDGE('',*,*,#409,.F.);
+#596=ORIENTED_EDGE('',*,*,#414,.F.);
 #597=ORIENTED_EDGE('',*,*,#364,.F.);
 #598=ORIENTED_EDGE('',*,*,#397,.F.);
 #599=ORIENTED_EDGE('',*,*,#426,.F.);
